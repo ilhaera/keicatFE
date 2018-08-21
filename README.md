@@ -5,10 +5,10 @@
 
 # 구조
 일반적인 vue-cli 어플리케이션입니다.
-src/components 에서 컴포넌트들을 수정하고 src/App.vue에서 테마를 수정할 수 있습니다.
-src/assets/config.js를 수정하여서 글로벌 설정을 수정할 수 있습니다.
-index.html을 수정하여 meta태그와 title을 수정할 수 있습니다.
-config를 수정하더라도 index.html은 직접 수정해 주셔야 합니다.
+* src/components 에서 컴포넌트들을 수정하고 src/App.vue에서 테마를 수정할 수 있습니다.
+* src/assets/config.js를 수정하여서 글로벌 설정을 수정할 수 있습니다.
+* index.html을 수정하여 meta태그와 title을 수정할 수 있습니다.
+* config를 수정하더라도 index.html은 직접 수정해 주셔야 합니다.
 
 # 튜토리얼
 1. 프론트와 백엔드를 clone 합니다.
